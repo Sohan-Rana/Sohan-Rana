@@ -1,0 +1,221 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Sohan Rana - Software Engineer, AI, Cloud, Research">
+  <title>Sohan Rana</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2027">
+        <animate attributeName="stop-color" values="#0f2027;#1a1040;#0b2b3a;#0f2027" dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#203a43">
+        <animate attributeName="stop-color" values="#203a43;#2a1f5c;#16424f;#203a43" dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#2c5364">
+        <animate attributeName="stop-color" values="#2c5364;#3b2a78;#1c5a6e;#2c5364" dur="12s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="nameGrad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="500" y2="0" spreadMethod="repeat">
+      <stop offset="0%" stop-color="#00d8ff"/>
+      <stop offset="33%" stop-color="#a78bfa"/>
+      <stop offset="66%" stop-color="#ff6ec7"/>
+      <stop offset="100%" stop-color="#00d8ff"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="500 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="borderGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00d8ff"/>
+      <stop offset="50%" stop-color="#ff6ec7"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#fff" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00d8ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00d8ff"/>
+      <stop offset="100%" stop-color="#ff6ec7" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+
+    <clipPath id="nameClip">
+      <text x="500" y="168" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="86" font-weight="800" letter-spacing="8">SOHAN RANA</text>
+    </clipPath>
+    <clipPath id="frame"><rect x="0" y="0" width="1000" height="300" rx="26"/></clipPath>
+  </defs>
+
+  <style>
+    .name { font-family: 'Segoe UI', Arial, Helvetica, sans-serif; font-size: 86px; font-weight: 800; letter-spacing: 8px; }
+    .mono { font-family: 'Courier New', Consolas, monospace; }
+    .fillName { opacity: 0; animation: fadeIn 1.2s ease 1.8s forwards; }
+    .draw { fill: none; stroke: #ffffff; stroke-width: 1.6; stroke-dasharray: 1600; stroke-dashoffset: 1600;
+            animation: draw 2.4s ease forwards, fadeOut 1s ease 2.6s forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes fadeIn { to { opacity: 1; } }
+    @keyframes fadeOut { to { opacity: 0; } }
+    .role { opacity: 0; }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <!-- background -->
+    <rect width="1000" height="300" fill="url(#bg)"/>
+
+    <!-- aurora blobs -->
+    <g filter="url(#blur)" opacity="0.55">
+      <circle r="90" fill="#00d8ff">
+        <animate attributeName="cx" values="150;420;150" dur="9s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="60;220;60" dur="11s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="100" fill="#ff6ec7">
+        <animate attributeName="cx" values="850;560;850" dur="10s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="240;70;240" dur="8s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="80" fill="#a78bfa">
+        <animate attributeName="cx" values="500;760;300;500" dur="14s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="150;40;250;150" dur="14s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- moving grid -->
+    <g stroke="#ffffff" stroke-opacity="0.05" stroke-width="1">
+      <g>
+        <path d="M0 40H1000M0 80H1000M0 120H1000M0 160H1000M0 200H1000M0 240H1000M0 280H1000"/>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 40" dur="4s" repeatCount="indefinite"/>
+      </g>
+      <g>
+        <path d="M40 0V300M80 0V300M120 0V300M160 0V300M200 0V300M240 0V300M280 0V300M320 0V300M360 0V300M400 0V300M440 0V300M480 0V300M520 0V300M560 0V300M600 0V300M640 0V300M680 0V300M720 0V300M760 0V300M800 0V300M840 0V300M880 0V300M920 0V300M960 0V300"/>
+        <animateTransform attributeName="transform" type="translate" values="0 0;40 0" dur="8s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <!-- twinkling stars -->
+    <g fill="#fff">
+      <circle cx="60" cy="50" r="1.6"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.2s" repeatCount="indefinite"/></circle>
+      <circle cx="190" cy="250" r="1.2"><animate attributeName="opacity" values="1;0.1;1" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="310" cy="35" r="1.4"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.7s" begin="0.5s" repeatCount="indefinite"/></circle>
+      <circle cx="430" cy="270" r="1.8"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.4s" repeatCount="indefinite"/></circle>
+      <circle cx="610" cy="30" r="1.3"><animate attributeName="opacity" values="1;0.1;1" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="720" cy="265" r="1.6"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.1s" begin="1s" repeatCount="indefinite"/></circle>
+      <circle cx="860" cy="55" r="1.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="940" cy="200" r="1.2"><animate attributeName="opacity" values="1;0.1;1" dur="2.9s" repeatCount="indefinite"/></circle>
+      <circle cx="110" cy="160" r="1.1"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.6s" repeatCount="indefinite"/></circle>
+      <circle cx="900" cy="130" r="1.7"><animate attributeName="opacity" values="1;0.2;1" dur="2.1s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- rising particles -->
+    <g fill="#00d8ff">
+      <circle cx="90" cy="300" r="3"><animate attributeName="cy" values="310;-10" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="7s" repeatCount="indefinite"/></circle>
+      <circle cx="260" cy="300" r="2"><animate attributeName="cy" values="310;-10" dur="9s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="9s" begin="1.5s" repeatCount="indefinite"/></circle>
+      <circle cx="540" cy="300" r="3.5"><animate attributeName="cy" values="310;-10" dur="8s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.7;0" dur="8s" begin="0.8s" repeatCount="indefinite"/></circle>
+      <circle cx="800" cy="300" r="2.5"><animate attributeName="cy" values="310;-10" dur="10s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="10s" begin="2s" repeatCount="indefinite"/></circle>
+    </g>
+    <g fill="#ff6ec7">
+      <circle cx="170" cy="300" r="2.5"><animate attributeName="cy" values="310;-10" dur="8.5s" begin="0.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="8.5s" begin="0.4s" repeatCount="indefinite"/></circle>
+      <circle cx="680" cy="300" r="3"><animate attributeName="cy" values="310;-10" dur="7.5s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="7.5s" begin="1.2s" repeatCount="indefinite"/></circle>
+      <circle cx="920" cy="300" r="2"><animate attributeName="cy" values="310;-10" dur="9.5s" begin="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="9.5s" begin="3s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- floating code symbols -->
+    <g class="mono" font-size="22" fill="#00d8ff" fill-opacity="0.55">
+      <text x="70" y="115">&lt;/&gt;
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -14;0 0" dur="5s" repeatCount="indefinite"/>
+      </text>
+      <text x="880" y="100">{ }
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 12;0 0" dur="6s" repeatCount="indefinite"/>
+      </text>
+      <text x="120" y="235" fill="#ff6ec7">AI
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="4.5s" repeatCount="indefinite"/>
+      </text>
+      <text x="840" y="240" fill="#a78bfa">01
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -12;0 0" dur="5.5s" repeatCount="indefinite"/>
+      </text>
+      <text x="930" y="170" fill="#ff6ec7">NLP
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 10;0 0" dur="6.5s" repeatCount="indefinite"/>
+      </text>
+      <text x="25" y="190" fill="#a78bfa">py
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="4s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- orbit rings with travelling dots -->
+    <g transform="rotate(-5 500 150)" fill="none">
+      <path d="M 110 150 a 390 78 0 1 0 780 0 a 390 78 0 1 0 -780 0" stroke="#00d8ff" stroke-opacity="0.25" stroke-width="1" stroke-dasharray="4 8">
+        <animate attributeName="stroke-dashoffset" values="0;-120" dur="6s" repeatCount="indefinite"/>
+      </path>
+      <circle r="5" fill="#00d8ff" filter="url(#glow)">
+        <animateMotion dur="9s" repeatCount="indefinite" path="M 110 150 a 390 78 0 1 0 780 0 a 390 78 0 1 0 -780 0"/>
+      </circle>
+      <circle r="4" fill="#ff6ec7" filter="url(#glow)">
+        <animateMotion dur="9s" begin="-4.5s" repeatCount="indefinite" path="M 110 150 a 390 78 0 1 0 780 0 a 390 78 0 1 0 -780 0"/>
+      </circle>
+    </g>
+
+    <!-- welcome line -->
+    <text x="500" y="72" text-anchor="middle" class="mono" font-size="15" letter-spacing="6" fill="#00d8ff">
+      // WELCOME TO MY WORLD
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="3s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- NAME -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="5s" repeatCount="indefinite"/>
+
+      <!-- stroke draw-in -->
+      <text class="name draw" x="500" y="168" text-anchor="middle">SOHAN RANA</text>
+
+      <!-- gradient fill + glow -->
+      <g class="fillName" filter="url(#glow)">
+        <text class="name" x="500" y="168" text-anchor="middle" fill="url(#nameGrad)">SOHAN RANA</text>
+      </g>
+
+      <!-- shimmer sweep clipped to the letters -->
+      <g clip-path="url(#nameClip)">
+        <rect x="0" y="70" width="140" height="120" fill="url(#shine)" transform="translate(-300 0) skewX(-20)">
+          <animateTransform attributeName="transform" type="translate" additive="sum" values="-300 0;-300 0;1300 0" keyTimes="0;0.45;1" dur="5s" begin="3s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+
+    <!-- animated underline -->
+    <rect x="500" y="192" height="3" rx="1.5" fill="url(#lineGrad)" width="0">
+      <animate attributeName="width" values="0;620" begin="2.6s" dur="1.2s" fill="freeze"/>
+      <animate attributeName="x" values="500;190" begin="2.6s" dur="1.2s" fill="freeze"/>
+    </rect>
+
+    <!-- rotating roles -->
+    <g font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="24" font-weight="600" text-anchor="middle" letter-spacing="2" fill="#e6f7ff">
+      <text class="role" x="500" y="238">Software Engineer
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.22;0.25;1" dur="12s" begin="3.6s" repeatCount="indefinite"/>
+      </text>
+      <text class="role" x="500" y="238">AI &amp; NLP Researcher
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.28;0.47;0.5;1" dur="12s" begin="3.6s" repeatCount="indefinite"/>
+      </text>
+      <text class="role" x="500" y="238">Cloud &amp; DevOps Builder
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.53;0.72;0.75;1" dur="12s" begin="3.6s" repeatCount="indefinite"/>
+      </text>
+      <text class="role" x="500" y="238">Co-founder &amp; COO @ Honqio IT
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.75;0.78;0.97;1" dur="12s" begin="3.6s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- tagline -->
+    <text x="500" y="274" text-anchor="middle" class="mono" font-size="13" letter-spacing="3" fill="#ffffff" fill-opacity="0.6">
+      DHAKA, BANGLADESH  •  BUILDING TECHNOLOGY FOR REAL-WORLD IMPACT
+    </text>
+
+    <!-- travelling border light -->
+    <rect x="5" y="5" width="990" height="290" rx="22" fill="none" stroke="url(#borderGrad)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="180 2400" filter="url(#glow)">
+      <animate attributeName="stroke-dashoffset" values="0;-2580" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="5" y="5" width="990" height="290" rx="22" fill="none" stroke="#ffffff" stroke-opacity="0.1" stroke-width="1"/>
+  </g>
+</svg>
