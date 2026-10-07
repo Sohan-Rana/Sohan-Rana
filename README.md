@@ -1,6 +1,17 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Sohan Rana - Software Engineer, AI, Cloud, Research" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=270&section=header&text=SOHAN%20RANA&fontSize=76&fontColor=ffffff&stroke=00d8ff&strokeWidth=2&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%20%7C%20Cloud%20%7C%20Research&descAlignY=58&descSize=20" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=900&color=FF6EC7&center=true&vCenter=true&repeat=true&width=900&height=50&lines=%E2%9C%A6+Welcome+to+my+world+%E2%9C%A6;Software+Engineer;AI+%26+NLP+Researcher;Cloud+%26+DevOps+Builder;Co-founder+%26+COO+%40+Honqio+IT" alt="Animated roles"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4&section=header" width="60%"/>
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="34" height="34" alt="wave"/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="34" height="34" alt="rocket"/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="34" height="34" alt="sparkles"/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="34" height="34" alt="fire"/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="34" height="34" alt="rocket"/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="34" height="34" alt="wave"/>
 
 <a href="https://github.com/ranashuv243">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00D8FF&center=true&vCenter=true&width=720&lines=Software+Engineer+%7C+Co-founder+%26+COO+%40+Honqio+IT;AI+%7C+NLP+%7C+Cloud+%7C+DevOps+%7C+Data+Science;Researching+HCI%2C+AI+Ethics+and+Responsible+Technology;Building+technology+for+real-world+impact" alt="Typing SVG"/>
