@@ -1,167 +1,211 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=260&section=header&text=SOHAN%20RANA&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20HCI%20Enthusiast%20%7C%20NLP%20%7C%20AI%20Ethics%20%7C%20Research&descAlignY=58&descSize=18" width="100%" alt="Sohan Rana"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,20,24,30&height=230&section=header&text=Sohan%20Rana&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=AI%20%C2%B7%20HCI%20%C2%B7%20NLP%20%C2%B7%20Responsible%20Technology&descAlignY=62&descSize=18" width="100%" alt="Sohan Rana"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00D8FF&center=true&vCenter=true&width=800&height=50&lines=Software+Engineering+Professional-in-Training;Co-founder+%26+COO+%40+Honqio+IT;AI+%7C+HCI+%7C+NLP+%7C+AI+Ethics;Building+technology+that+is+useful+and+people-centered" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=2800&pause=900&color=00D8FF&center=true&vCenter=true&width=820&height=45&lines=Software+Engineering+Professional-in-Training;Co-founder+%26+COO+%40+Honqio+IT;Researching+Bangla+NLP+%26+Human-Centered+AI;Building+technology+that+is+useful%2C+responsible+and+people-centered" alt="Typing animation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=700&color=F7DF1E&center=true&vCenter=true&width=600&lines=%3E+print('Hello%2C+World!');%3E+git+commit+-m+%22build+something+meaningful%22;%3E+docker+run+my-idea;%3E+deploying+impact..." alt="Terminal typing"/>
-
-<br/>
-
-📍 Dhaka, Bangladesh &nbsp;·&nbsp; 🌐 [Portfolio](https://sohan-rana.github.io/SOHAN/) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/sohan-r-54729a184/) &nbsp;·&nbsp; ✉️ [Email](mailto:sohanrana243@gmail.com) &nbsp;·&nbsp; 🎓 [Google Scholar](https://scholar.google.com/citations?user=706NRN8AAAAJ&hl=en) &nbsp;·&nbsp; 🔬 [ResearchGate](https://www.researchgate.net/profile/Md-Sohan-Rana)
+📍 Dhaka, Bangladesh &nbsp;|&nbsp; [Portfolio](https://sohan-rana.github.io/SOHAN/) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/sohan-r-54729a184/) &nbsp;|&nbsp; [Email](mailto:sohanrana243@gmail.com) &nbsp;|&nbsp; [Google Scholar](https://scholar.google.com/citations?user=706NRN8AAAAJ&hl=en) &nbsp;|&nbsp; [ResearchGate](https://www.researchgate.net/profile/Md-Sohan-Rana)
 
 <img src="https://komarev.com/ghpvc/?username=Sohan-Rana&label=Profile%20Views&color=2c5364&style=flat-square" alt="Profile views"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=70&section=header" width="100%" alt=""/>
+> [!TIP]
+> **Open to** internships, research collaboration, and AI / NLP / HCI / data science projects. Say hello at **sohanrana243@gmail.com**.
 
-## 💡 About
+---
 
-I am a **Software Engineering professional-in-training** with a growing focus on Artificial Intelligence, Human-Computer Interaction, Natural Language Processing and responsible technology. My interests lie at the intersection of technology and human needs: how intelligent systems can be useful, accessible, ethical and meaningful.
+## 👋 Who I am
 
-My journey began with software development and practical problem-solving, and has expanded toward research-driven AI and human-centered computing. My work spans applied research, IoT-based systems and NLP, including **published research** on an Arduino-based agricultural intrusion detection system and ongoing work on fraud detection in Bangla job advertisements.
+I build and study intelligent systems with one question in mind: **who does this technology actually help?** My work sits where Artificial Intelligence, Human-Computer Interaction and Natural Language Processing meet real human needs, with a focus on systems that are useful, accessible and ethical.
 
-I am also the **Co-founder & COO of Honqio IT**, a technology startup working in Cloud Computing, AI, DevOps and Data Science, and I take part in national and international conferences, youth forums and workshops.
+I started with software development and practical problem-solving, then moved toward research-driven, human-centered AI. I have **published research** on an Arduino-based agricultural intrusion detection system, and I am working on fraud detection for Bangla job advertisements. I am also **Co-founder & COO of Honqio IT**, a startup in Cloud Computing, AI, DevOps and Data Science.
 
-```python
-from dataclasses import dataclass
+| | |
+|:--|:--|
+| 🎓 **Education** | B.Sc. Software Engineering, Daffodil International University |
+| 🏢 **Role** | Co-founder & COO, Honqio IT |
+| 🔬 **Research** | HCI · AI Ethics · Bangla NLP · Human-Centered AI |
+| 🗣️ **Languages** | Bangla (native), English (intermediate-advanced) |
+| 🧭 **Mission** | Build technology that is innovative, responsible, inclusive and human-centered |
 
+---
 
-@dataclass(frozen=True)
-class Engineer:
-    name: str = "Sohan Rana"
-    location: str = "Dhaka, Bangladesh"
-    status: str = "Software Engineering professional-in-training"
-    education: str = "B.Sc. Software Engineering, Daffodil International University"
-    role: str = "Co-founder & COO, Honqio IT"
-    research: tuple = ("AI", "HCI", "NLP", "AI Ethics", "Human-Centered AI")
-    languages: tuple = ("Bangla (native)", "English (intermediate-advanced)")
-    mission: str = "Build technology that is innovative, responsible, inclusive and human-centered."
+## 🧠 My world at a glance
+
+```mermaid
+mindmap
+  root((Sohan Rana))
+    AI
+      Bangla NLP
+      Explainable AI
+      AI Ethics
+      Fraud detection
+    HCI
+      Human-Centered AI
+      Accessible design
+    Building
+      Honqio IT
+      EarthLens
+      Smart Field Alert System
+    Learning
+      Machine Learning
+      Cloud and DevOps
+      Data Science
+      ESP32 and Linux
 ```
 
-## 🚀 Current Focus
+---
 
-| Area | Details |
+## 🚀 Now
+
+| Focus | Details |
 |:--|:--|
-| **Research** | HCI, AI Ethics, Bangla NLP, human-centered AI, fraud detection |
 | **Project** | BanglaJobGuard: explainable hybrid AI for detecting fraudulent job ads in Bangladesh |
 | **Competition** | NASA Space Apps Challenge 2026, EarthLens (Team Cosmic Mindshift, 14-15 Nov 2026) |
 | **Startup** | Building Honqio IT |
 | **Learning** | Machine Learning, NLP, Data Science, AWS / Azure / Google Cloud, DevOps, Docker, Linux, ESP32 |
-| **Open to** | Internships, research collaboration, AI and data science projects |
 
-## 🔥 Featured Projects
+---
 
-<table>
-<tr>
-<td width="33%" valign="top">
+## 🔥 Featured work
 
-**BanglaJobGuard**
+### 🛡️ BanglaJobGuard
 
-Explainable hybrid AI for detecting fraudulent and suspicious job ads in the Bangla job market. IEEE-format paper, with a rule-based public MVP and NLP/ML planned next.
+Explainable hybrid AI that flags fraudulent and suspicious job ads in the Bangla job market. IEEE-format paper, with a rule-based public MVP live and NLP/ML models planned next.
 
 `Python` `NLP` `Explainable AI`
 
-</td>
-<td width="33%" valign="top">
+```mermaid
+flowchart LR
+    A["Job ad text<br/>Bangla and English"] --> B["Rule-based checks<br/>public MVP"]
+    B --> C["NLP and ML models<br/>planned next"]
+    C --> D["Explainable verdict<br/>why it looks risky"]
+    D --> E["Safer job seekers"]
+    classDef done fill:#0f2027,stroke:#00d8ff,color:#fff;
+    classDef next fill:#2c5364,stroke:#ff6ec7,color:#fff;
+    class A,B done;
+    class C,D,E next;
+```
 
-**Smart Field Alert System** *(Published)*
-
-Arduino-based agricultural intrusion detection using a PIR HC-SR501 sensor, built to help protect farmland with low-cost hardware.
-
-`Arduino` `IoT` `Sensors`
-
-</td>
-<td width="33%" valign="top">
-
-**EarthLens** *(NASA Space Apps 2026)*
+### 🌍 EarthLens (NASA Space Apps Challenge 2026)
 
 Bangladesh Environmental Trend Detective: turns NASA Earth observation data into accessible visual insights about temperature and rainfall trends.
 
-`Chart.js` `Leaflet.js` `Python` `Pandas`
+`Python` `Pandas` `Chart.js` `Leaflet.js`
 
-</td>
-</tr>
-</table>
+```mermaid
+flowchart LR
+    A["NASA Earth<br/>observation data"] --> B["Python and Pandas<br/>clean and analyse"]
+    B --> C["Chart.js and Leaflet.js<br/>visualise"]
+    C --> D["Temperature and<br/>rainfall insights"]
+    classDef n fill:#0f2027,stroke:#00d8ff,color:#fff;
+    class A,B,C,D n;
+```
 
-**Other projects:** Honqio IT website (`HTML` `CSS` `JavaScript` `Netlify`) · DIU Bus Service Automation (`React` `Node.js` `MySQL`) · Real Estate Management System (`MySQL` `XAMPP`) · Blood Donation & Emergency Matching App (capstone concept)
+### 🌾 Smart Field Alert System (published)
 
-## 🔬 Research
+Low-cost Arduino-based intrusion detection for farmland using a PIR HC-SR501 sensor. Published on [ResearchGate](https://www.researchgate.net/publication/404114451_Smart_Field_Alert_System_Using_Arduino_for_Agricultural_Intrusion_Detection).
 
-**Smart Field Alert System Using Arduino for Agricultural Intrusion Detection**, published research ([ResearchGate](https://www.researchgate.net/publication/404114451_Smart_Field_Alert_System_Using_Arduino_for_Agricultural_Intrusion_Detection)).
+`Arduino` `IoT` `Sensors`
 
-**Current interests:** Human-Computer Interaction · AI Ethics and Responsible AI · Natural Language Processing (Bangla) · Human-Centered AI · AI in employment and recruitment · Climate and agricultural technology
+<details>
+<summary><b>More projects</b></summary>
 
-## 🎓 Education
+- **Honqio IT website**: `HTML` `CSS` `JavaScript` `Netlify`
+- **DIU Bus Service Automation**: `React` `Node.js` `MySQL`
+- **Real Estate Management System**: `MySQL` `XAMPP`
+- **Blood Donation & Emergency Matching App**: capstone concept
 
-- **Daffodil International University**: B.Sc. in Software Engineering
-- **Dhaka Imperial College**: HSC (Science)
-- **Motijheel Model School & College**: SSC (Science)
+</details>
 
-## 🌐 Conferences, Forums & Global Engagements
+---
+
+## 🏢 Honqio IT
+
+**Co-founder & COO.** A technology startup delivering practical digital solutions for individuals and organizations. Website: [honqioit.netlify.app](https://honqioit.netlify.app)
+
+```mermaid
+flowchart LR
+    A["Cloud<br/>Computing"] --> B["DevOps"] --> C["Data<br/>Science"] --> D["AI"] --> E["Real-world<br/>impact"]
+    classDef c fill:#0f2027,stroke:#f7df1e,color:#fff;
+    class A,B,C,D,E c;
+```
+
+*Your partner in progress.*
+
+---
+
+## 🧭 Journey
+
+```mermaid
+timeline
+    title From classroom to research and startups
+    School : SSC (Science) : Motijheel Model School and College
+    College : HSC (Science) : Dhaka Imperial College
+    University : B.Sc. Software Engineering : Daffodil International University
+    Building : Published IoT research : Co-founded Honqio IT
+    2026 : RCOY APAC youth climate conference : NASA Space Apps with EarthLens
+```
+
+<details>
+<summary><b>Conferences, forums and engagements</b></summary>
 
 - **RCOY APAC 2026**: youth climate conference participant
 - **NASA Space Apps Challenge 2026**: Team Cosmic Mindshift (EarthLens)
 - Youth forums, workshops, volunteering and collaborative initiatives on technology, climate and society
 
-## 🏢 Honqio IT
+</details>
 
-**Co-founder & COO.** A technology startup focused on Cloud Computing, AI, DevOps and Data Science, delivering practical digital solutions for individuals and organizations. Website: [honqioit.netlify.app](https://honqioit.netlify.app)
+---
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=20&pause=1500&color=00D8FF&center=true&vCenter=true&width=400&height=40&lines=Your+partner+in+progress." alt="Honqio tagline"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=70&section=footer" width="100%" alt=""/>
-
-## ⚙️ Tech Stack
+## 🛠️ Tech stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,py,js,html,css,react,nodejs,mysql,arduino,git,github,vscode&perline=12" alt="Tech stack"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://skillicons.dev/icons?i=c,py,js,html,css,react,nodejs,mysql,arduino,git,github,vscode&perline=12" alt="Core stack"/>
 
-**Currently learning**
+**Learning now**
 
 <img src="https://skillicons.dev/icons?i=java,aws,azure,gcp,docker,linux&perline=12" alt="Learning"/>
-<img src="https://img.shields.io/badge/NLP-0f2027?style=for-the-badge" alt="NLP"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-203a43?style=for-the-badge" alt="ML"/>
-<img src="https://img.shields.io/badge/Data%20Science-2c5364?style=for-the-badge" alt="Data Science"/>
 
 </div>
 
-## 📊 GitHub Analytics
+---
+
+## 📊 GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sohan-Rana&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan-Rana&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sohan-Rana&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sohan-Rana&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan-Rana&layout=compact&theme=tokyonight&hide_border=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan-Rana&layout=compact&theme=default&hide_border=true" alt="Top languages"/>
+</picture>
 
-<img src="https://streak-stats.demolab.com?user=Sohan-Rana&theme=tokyonight&hide_border=true" alt="Streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sohan-Rana&theme=tokyonight&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=Sohan-Rana&theme=default&hide_border=true" alt="Streak"/>
+</picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sohan-Rana&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sohan-Rana&theme=tokyo-night&hide_border=true&area=true">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sohan-Rana&theme=minimal&hide_border=true&area=true" alt="Activity graph"/>
+</picture>
 
 </div>
 
-## 🏆 Trophies
+---
+
+## 🌱 Beyond code
+
+Reading, storytelling, podcasts, and youth-led climate and community initiatives. I believe good technology starts with understanding people and their problems.
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sohan-Rana&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" alt="Trophies"/>
-</div>
 
-## 🌱 Beyond Code
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,20,24,30&height=110&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=ffffff&fontAlignY=62" width="100%" alt="Thanks for visiting"/>
 
-Reading, storytelling, podcasts, and youth-led climate and community initiatives, including participation in **RCOY APAC 2026**. I believe good technology starts with understanding people and their problems.
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
-</div>
-
-## 🤝 Let's Connect
-
-I'm open to internships and collaboration on research, AI / NLP / HCI, cloud, data science, climate technology and open-source projects. If you're building something meaningful, reach out at **sohanrana243@gmail.com**.
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%" alt="Thanks for visiting"/>
 </div>
