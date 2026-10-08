@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=270&section=header&text=SOHAN%20RANA&fontSize=76&fontColor=ffffff&stroke=00d8ff&strokeWidth=2&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20HCI%20Enthusiast%20%7C%20NLP%20%7C%20AI%20Ethics%20%7C%20Research&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=270&section=header&text=SOHAN%20RANA&fontSize=76&fontColor=ffffff&stroke=00d8ff&strokeWidth=2&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20HCI%20Enthusiast%20%7C%20NLP%20%7C%20AI%20Ethics%20%7C%20Research&descAlignY=58&descSize=20" width="100%" alt="Sohan Rana"/>
+
+# Sohan Rana
+
+**AI & HCI Enthusiast · Co-founder & COO @ Honqio IT**
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=900&color=FF6EC7&center=true&vCenter=true&repeat=true&width=900&height=50&lines=%E2%9C%A6+Welcome+to+my+world+%E2%9C%A6;AI+%26+HCI+Enthusiast;Exploring+NLP+%26+AI+Ethics;Software+Engineering+Professional-in-Training;Co-founder+%26+COO+%40+Honqio+IT" alt="Animated roles"/>
 
@@ -25,7 +29,7 @@
 
 <br/><br/>
 
-<a href="https://sohan-rana.github.io/Sohandile/"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://sohan-rana.github.io/SOHAN/"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sohan-r-54729a184/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sohanrana243@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://scholar.google.com/citations?user=706NRN8AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
