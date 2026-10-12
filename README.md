@@ -177,23 +177,28 @@ timeline
 
 <div align="center">
 
+<!-- Ei card gulo GitHub Actions diye nijer repo theke toiri hoy (profile-summary-card-output folder) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sohan-Rana&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sohan-Rana&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/0-profile-details.svg">
+  <img width="48%" src="profile-summary-card-output/github/0-profile-details.svg" alt="Profile details"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan-Rana&layout=compact&theme=tokyonight&hide_border=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan-Rana&layout=compact&theme=default&hide_border=true" alt="Top languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg">
+  <img width="48%" src="profile-summary-card-output/github/2-most-commit-language.svg" alt="Most committed languages"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg">
+  <img width="48%" src="profile-summary-card-output/github/3-stats.svg" alt="GitHub stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/4-productive-time.svg">
+  <img width="48%" src="profile-summary-card-output/github/4-productive-time.svg" alt="Productive time"/>
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sohan-Rana&theme=tokyonight&hide_border=true">
   <img src="https://streak-stats.demolab.com?user=Sohan-Rana&theme=default&hide_border=true" alt="Streak"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sohan-Rana&theme=tokyo-night&hide_border=true&area=true">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sohan-Rana&theme=minimal&hide_border=true&area=true" alt="Activity graph"/>
 </picture>
 
 </div>
