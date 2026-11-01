@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://sohan-rana.github.io/SOHAN/">
-    <img src="assets/profile.png" width="140" height="140" alt="Sohan Rana" style="border-radius:50%" />
+    <img src="assets/avatar.svg" width="170" height="170" alt="Sohan Rana" />
   </a>
 
   <h1>Sohan Rana</h1>
