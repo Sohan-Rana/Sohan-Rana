@@ -53,7 +53,6 @@ Open to internships, research collaboration and feedback or code reviews. Reach 
 
 Thank you for visiting my page ❤️
 
-P.S.: I followed [znimie](https://github.com/znimie) because their work caught my interest. I really appreciate it, it helps me discover something new. Thanks for that too.
 
 <div align="center">
 
