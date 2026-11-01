@@ -190,18 +190,31 @@ flowchart LR
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=800&color=C5FF4A&center=true&vCenter=true&width=600&height=30&lines=Code.+Commits.+Contributions.;Watch+the+snake+eat+my+commits+%F0%9F%90%8D;Always+learning%2C+always+building" alt="Stats typing"/>
+
+<!-- Animated stat cards (count-up animation on load) -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sohan-Rana&show_icons=true&count_private=true&hide_border=true&bg_color=0f2027&title_color=c5ff4a&icon_color=c5ff4a&text_color=ffffff" alt="GitHub stats"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan-Rana&layout=compact&langs_count=6&hide_border=true&bg_color=0f2027&title_color=c5ff4a&text_color=ffffff" alt="Top languages"/>
+
+<!-- Animated streak (fade-in + counting) -->
+<img src="https://streak-stats.demolab.com?user=Sohan-Rana&background=0f2027&ring=c5ff4a&fire=c5ff4a&currStreakLabel=c5ff4a&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c5ff4a&dates=9aa4aa&hide_border=true" alt="Streak"/>
+
+<!-- Trophies (shine on hover) -->
+<img src="https://github-profile-trophy.vercel.app/?username=Sohan-Rana&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies"/>
+
+<!-- Activity graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sohan-Rana&bg_color=0f2027&color=c5ff4a&line=c5ff4a&point=ffffff&area=true&hide_border=true" alt="Activity graph"/>
+
+<!-- Snake eating the contribution graph (needs .github/workflows/snake.yml) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/0-profile-details.svg">
-  <img width="48%" src="profile-summary-card-output/github/0-profile-details.svg" alt="Profile details"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg">
-  <img width="48%" src="profile-summary-card-output/github/2-most-commit-language.svg" alt="Most committed languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sohan-Rana/Sohan-Rana/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Sohan-Rana/Sohan-Rana/output/github-snake.svg" width="95%"/>
 </picture>
 
+<!-- Your own generated cards (profile-summary-card-output folder) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sohan-Rana&theme=tokyonight&hide_border=true">
-  <img src="https://streak-stats.demolab.com?user=Sohan-Rana&theme=default&hide_border=true" alt="Streak"/>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/4-productive-time.svg">
+  <img width="48%" src="profile-summary-card-output/github/4-productive-time.svg" alt="Productive time"/>
 </picture>
 
 </div>
@@ -223,7 +236,6 @@ I'll be happy to receive any feedback, ideas or code reviews that can help me im
 
 Thank you for visiting my page ❤️
 
-P.S.: I followed [znimie](https://github.com/znimie) because their work caught my interest. I really appreciate it, it helps me discover something new. Thanks for that too.
 
 <div align="center">
   <sub>Engineered with curiosity in Dhaka by <a href="https://github.com/Sohan-Rana"><b>@Sohan-Rana</b></a>.</sub>
