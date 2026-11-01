@@ -1,84 +1,188 @@
 <div align="center">
+  <a href="https://sohan-rana.github.io/SOHAN/">
+    <img src="assets/profile.png" width="140" height="140" alt="Sohan Rana" style="border-radius:50%" />
+  </a>
 
-<h1>Sohan Rana</h1>
+  <h1>Sohan Rana</h1>
 
-<p>
-  <b>AI · Bangla NLP · Human-Centered Technology</b><br />
-  Software Engineering student. Co-founder & COO at Honqio IT. Dhaka, Bangladesh.
-</p>
+  <p>
+    <b>Where AI meets people, not just data.</b><br />
+    Software Engineering student building explainable, human-centered technology for Bangla NLP, IoT and climate.
+  </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=00D8FF&center=true&vCenter=true&width=700&height=35&lines=Researching+Bangla+NLP+%26+Explainable+AI;Published+IoT+researcher;NASA+Space+Apps+Challenge+2026;Building+technology+that+helps+people" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=C5FF4A&center=true&vCenter=true&width=700&height=35&lines=Co-founder+%26+COO+%40+Honqio+IT;Researching+Bangla+NLP+%26+Explainable+AI;Published+IoT+researcher;NASA+Space+Apps+Challenge+2026" alt="Typing animation"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Role-Co--founder_%26_COO-060606?style=for-the-badge&logo=rocket&logoColor=00d8ff" alt="Role"/>
-  <img src="https://img.shields.io/badge/Research-HCI_·_NLP_·_AI_Ethics-060606?style=for-the-badge&logo=googlescholar&logoColor=00d8ff" alt="Research"/>
-  <img src="https://img.shields.io/badge/Status-Open_to_internships-060606?style=for-the-badge&logo=githubsponsors&logoColor=00d8ff" alt="Open to internships"/>
-</p>
+  <p>
+    <img src="https://img.shields.io/github/followers/Sohan-Rana?style=for-the-badge&logo=github&color=c5ff4a&logoColor=c5ff4a&labelColor=060606" alt="Followers" />
+    <img src="https://img.shields.io/badge/Role-Co--founder_%26_COO-c5ff4a?style=for-the-badge&logo=rocket&logoColor=c5ff4a&labelColor=060606" alt="Role" />
+    <img src="https://img.shields.io/badge/Research-HCI_·_NLP_·_AI_Ethics-c5ff4a?style=for-the-badge&logo=googlescholar&logoColor=c5ff4a&labelColor=060606" alt="Research" />
+    <img src="https://img.shields.io/badge/Open_to-Internships-c5ff4a?style=for-the-badge&logo=githubsponsors&logoColor=c5ff4a&labelColor=060606" alt="Open to internships" />
+  </p>
 
-<p>
-  <a href="https://sohan-rana.github.io/SOHAN/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/sohan-r-54729a184/">LinkedIn</a> •
-  <a href="https://scholar.google.com/citations?user=706NRN8AAAAJ&hl=en">Google Scholar</a> •
-  <a href="https://www.researchgate.net/profile/Md-Sohan-Rana">ResearchGate</a> •
-  <a href="https://honqioit.netlify.app">Honqio IT</a> •
-  <a href="mailto:sohanrana243@gmail.com">Email</a>
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-060606?style=flat-square&logo=python&logoColor=c5ff4a" alt="Python" />
+    <img src="https://img.shields.io/badge/JavaScript-060606?style=flat-square&logo=javascript&logoColor=c5ff4a" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-060606?style=flat-square&logo=react&logoColor=c5ff4a" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-060606?style=flat-square&logo=nodedotjs&logoColor=c5ff4a" alt="Node.js" />
+    <img src="https://img.shields.io/badge/MySQL-060606?style=flat-square&logo=mysql&logoColor=c5ff4a" alt="MySQL" />
+    <img src="https://img.shields.io/badge/Arduino-060606?style=flat-square&logo=arduino&logoColor=c5ff4a" alt="Arduino" />
+    <img src="https://img.shields.io/badge/Pandas-060606?style=flat-square&logo=pandas&logoColor=c5ff4a" alt="Pandas" />
+    <img src="https://img.shields.io/badge/Docker-060606?style=flat-square&logo=docker&logoColor=c5ff4a" alt="Docker" />
+    <img src="https://img.shields.io/badge/Linux-060606?style=flat-square&logo=linux&logoColor=c5ff4a" alt="Linux" />
+  </p>
 
+  <p>
+    <a href="https://sohan-rana.github.io/SOHAN/">Portfolio</a> •
+    <a href="#projects">Projects</a> •
+    <a href="#research">Research</a> •
+    <a href="#honqio-it">Honqio IT</a> •
+    <a href="#technologies--tools">Technologies</a> •
+    <a href="#github-stats">GitHub Stats</a> •
+    <a href="#contact">Contact</a>
+  </p>
 </div>
 
 ---
 
-## About
+> **Open to** internships, research collaboration, and AI / NLP / HCI / data science projects. Say hello at **[sohanrana243@gmail.com](mailto:sohanrana243@gmail.com)**.
 
-I work where AI, Human-Computer Interaction and Bangla NLP meet real human needs, always asking: *who does this technology actually help?*
+---
 
-I study Software Engineering at Daffodil International University, co-founded [Honqio IT](https://honqioit.netlify.app) (Cloud, AI, DevOps, Data Science), and have published research on an Arduino-based farm intrusion alert system.
+### 🧭 About
+
+I work where Artificial Intelligence, Human-Computer Interaction and Natural Language Processing meet real human needs, always asking one question: **who does this technology actually help?**
+
+I study Software Engineering at Daffodil International University in Dhaka, started with software development and practical problem-solving, and moved toward research-driven, human-centered AI.
 
 ---
 
 ## Projects
 
-| Project | What it does | Status |
-|:--|:--|:--|
-| **BanglaJobGuard** | Explainable hybrid AI that flags fraudulent job ads in Bangladesh | IEEE paper written, rule-based MVP live |
-| **EarthLens** | NASA Earth data turned into temperature and rainfall insights for Bangladesh | NASA Space Apps 2026, Team Cosmic Mindshift |
-| **[Smart Field Alert System](https://www.researchgate.net/publication/404114451_Smart_Field_Alert_System_Using_Arduino_for_Agricultural_Intrusion_Detection)** | Low-cost PIR sensor intrusion detection for farmland | Published |
+### 🛡️ BanglaJobGuard
+
+Explainable hybrid AI that flags fraudulent and suspicious job ads in the Bangla job market. IEEE-format paper written, rule-based public MVP live, NLP/ML models next.
+
+<img src="https://img.shields.io/badge/Python-060606?style=flat-square&logo=python&logoColor=c5ff4a" alt="Python" />
+<img src="https://img.shields.io/badge/NLP-060606?style=flat-square&logoColor=c5ff4a" alt="NLP" />
+<img src="https://img.shields.io/badge/Explainable_AI-060606?style=flat-square&logoColor=c5ff4a" alt="Explainable AI" />
+
+```mermaid
+flowchart LR
+    A["Job ad text<br/>Bangla and English"] --> B["Rule-based checks<br/>public MVP"]
+    B --> C["NLP and ML models<br/>planned next"]
+    C --> D["Explainable verdict<br/>why it looks risky"]
+    D --> E["Safer job seekers"]
+
+    style A fill:#1f1f1f,stroke:#c5ff4a,stroke-width:1px,color:#ffffff
+    style B fill:#060606,stroke:#c5ff4a,stroke-width:1px,color:#c5ff4a
+    style C fill:#1f1f1f,stroke:#252525,stroke-width:1px,color:#ffffff
+    style D fill:#1f1f1f,stroke:#252525,stroke-width:1px,color:#ffffff
+    style E fill:#060606,stroke:#c5ff4a,stroke-width:1px,color:#c5ff4a
+```
+
+### 🌍 EarthLens (NASA Space Apps Challenge 2026)
+
+Bangladesh Environmental Trend Detective. Turns NASA Earth observation data into accessible visual insights about temperature and rainfall trends. Team Cosmic Mindshift, 14-15 Nov 2026.
+
+<img src="https://img.shields.io/badge/Python-060606?style=flat-square&logo=python&logoColor=c5ff4a" alt="Python" />
+<img src="https://img.shields.io/badge/Pandas-060606?style=flat-square&logo=pandas&logoColor=c5ff4a" alt="Pandas" />
+<img src="https://img.shields.io/badge/Chart.js-060606?style=flat-square&logo=chartdotjs&logoColor=c5ff4a" alt="Chart.js" />
+<img src="https://img.shields.io/badge/Leaflet-060606?style=flat-square&logo=leaflet&logoColor=c5ff4a" alt="Leaflet" />
+
+```mermaid
+flowchart LR
+    A["NASA Earth<br/>observation data"] --> B["Python and Pandas<br/>clean and analyse"]
+    B --> C["Chart.js and Leaflet.js<br/>visualise"]
+    C --> D["Temperature and<br/>rainfall insights"]
+
+    style A fill:#1f1f1f,stroke:#c5ff4a,stroke-width:1px,color:#ffffff
+    style B fill:#060606,stroke:#252525,stroke-width:1px,color:#c5ff4a
+    style C fill:#1f1f1f,stroke:#252525,stroke-width:1px,color:#ffffff
+    style D fill:#060606,stroke:#c5ff4a,stroke-width:1px,color:#c5ff4a
+```
+
+### 🌾 Smart Field Alert System (published)
+
+Low-cost Arduino-based intrusion detection for farmland using a PIR HC-SR501 sensor. Published on [ResearchGate](https://www.researchgate.net/publication/404114451_Smart_Field_Alert_System_Using_Arduino_for_Agricultural_Intrusion_Detection).
+
+<img src="https://img.shields.io/badge/Arduino-060606?style=flat-square&logo=arduino&logoColor=c5ff4a" alt="Arduino" />
+<img src="https://img.shields.io/badge/IoT-060606?style=flat-square&logoColor=c5ff4a" alt="IoT" />
+<img src="https://img.shields.io/badge/Sensors-060606?style=flat-square&logoColor=c5ff4a" alt="Sensors" />
 
 <details>
-<summary>More projects</summary>
+<summary><b>More projects</b></summary>
 
-- Honqio IT website (HTML, CSS, JavaScript, Netlify)
-- DIU Bus Service Automation (React, Node.js, MySQL)
-- Real Estate Management System (MySQL, XAMPP)
-- Blood Donation & Emergency Matching App (capstone concept)
+- **Honqio IT website**: HTML, CSS, JavaScript, Netlify
+- **DIU Bus Service Automation**: React, Node.js, MySQL
+- **Real Estate Management System**: MySQL, XAMPP
+- **Blood Donation & Emergency Matching App**: capstone concept
 
 </details>
+
+---
+
+## Research
+
+<div align="center">
+
+<a href="https://scholar.google.com/citations?user=706NRN8AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-c5ff4a?style=for-the-badge&logo=googlescholar&logoColor=060606&labelColor=060606" alt="Google Scholar" /></a>
+<a href="https://www.researchgate.net/profile/Md-Sohan-Rana"><img src="https://img.shields.io/badge/ResearchGate-c5ff4a?style=for-the-badge&logo=researchgate&logoColor=060606&labelColor=060606" alt="ResearchGate" /></a>
+
+</div>
+
+Focus areas: HCI, AI Ethics, Bangla NLP, Human-Centered AI. Also taking part in youth-led climate initiatives, including RCOY APAC 2026.
+
+---
+
+## Honqio IT
+
+**Co-founder & COO.** A technology startup delivering practical digital solutions for individuals and organizations.
+
+```mermaid
+flowchart LR
+    A["Cloud<br/>Computing"] --> B["DevOps"] --> C["Data<br/>Science"] --> D["AI"] --> E["Real-world<br/>impact"]
+
+    style A fill:#1f1f1f,stroke:#c5ff4a,stroke-width:1px,color:#ffffff
+    style B fill:#060606,stroke:#252525,stroke-width:1px,color:#c5ff4a
+    style C fill:#1f1f1f,stroke:#252525,stroke-width:1px,color:#ffffff
+    style D fill:#060606,stroke:#252525,stroke-width:1px,color:#c5ff4a
+    style E fill:#1f1f1f,stroke:#c5ff4a,stroke-width:1px,color:#ffffff
+```
+
+<div align="center">
+<a href="https://honqioit.netlify.app"><img src="https://img.shields.io/badge/Visit-honqioit.netlify.app-c5ff4a?style=for-the-badge&logo=netlify&logoColor=060606&labelColor=060606" alt="Honqio IT" /></a>
+</div>
 
 ---
 
 ## Technologies & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Code-Python-060606?style=for-the-badge&logo=python&logoColor=00d8ff" alt="Python"/>
-  <img src="https://img.shields.io/badge/Code-JavaScript-060606?style=for-the-badge&logo=javascript&logoColor=00d8ff" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Code-C-060606?style=for-the-badge&logo=c&logoColor=00d8ff" alt="C"/>
-  <img src="https://img.shields.io/badge/Web-React-060606?style=for-the-badge&logo=react&logoColor=00d8ff" alt="React"/>
-  <img src="https://img.shields.io/badge/Web-Node.js-060606?style=for-the-badge&logo=nodedotjs&logoColor=00d8ff" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/DB-MySQL-060606?style=for-the-badge&logo=mysql&logoColor=00d8ff" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/IoT-Arduino-060606?style=for-the-badge&logo=arduino&logoColor=00d8ff" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Data-Pandas-060606?style=for-the-badge&logo=pandas&logoColor=00d8ff" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Tools-Git-060606?style=for-the-badge&logo=git&logoColor=00d8ff" alt="Git"/>
-  <img src="https://img.shields.io/badge/Editor-VS_Code-060606?style=for-the-badge&logo=visualstudiocode&logoColor=00d8ff" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Code-C-060606?style=flat-square&logo=c&logoColor=c5ff4a" alt="C" />
+  <img src="https://img.shields.io/badge/Code-Python-060606?style=flat-square&logo=python&logoColor=c5ff4a" alt="Python" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-060606?style=flat-square&logo=javascript&logoColor=c5ff4a" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Web-HTML-060606?style=flat-square&logo=html5&logoColor=c5ff4a" alt="HTML" />
+  <img src="https://img.shields.io/badge/Web-CSS-060606?style=flat-square&logo=css3&logoColor=c5ff4a" alt="CSS" />
+  <img src="https://img.shields.io/badge/Web-React-060606?style=flat-square&logo=react&logoColor=c5ff4a" alt="React" />
+  <img src="https://img.shields.io/badge/Web-Node.js-060606?style=flat-square&logo=nodedotjs&logoColor=c5ff4a" alt="Node.js" />
+  <img src="https://img.shields.io/badge/DB-MySQL-060606?style=flat-square&logo=mysql&logoColor=c5ff4a" alt="MySQL" />
+  <img src="https://img.shields.io/badge/IoT-Arduino-060606?style=flat-square&logo=arduino&logoColor=c5ff4a" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Tools-Git-060606?style=flat-square&logo=git&logoColor=c5ff4a" alt="Git" />
+  <img src="https://img.shields.io/badge/Tools-GitHub-060606?style=flat-square&logo=github&logoColor=c5ff4a" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Editor-VS_Code-060606?style=flat-square&logo=visualstudiocode&logoColor=c5ff4a" alt="VS Code" />
 </p>
 
-**Learning:**
-<img src="https://img.shields.io/badge/Java-060606?style=flat-square&logo=openjdk&logoColor=00d8ff" alt="Java"/>
-<img src="https://img.shields.io/badge/AWS-060606?style=flat-square&logo=amazonaws&logoColor=00d8ff" alt="AWS"/>
-<img src="https://img.shields.io/badge/Azure-060606?style=flat-square&logo=microsoftazure&logoColor=00d8ff" alt="Azure"/>
-<img src="https://img.shields.io/badge/Google_Cloud-060606?style=flat-square&logo=googlecloud&logoColor=00d8ff" alt="Google Cloud"/>
-<img src="https://img.shields.io/badge/Docker-060606?style=flat-square&logo=docker&logoColor=00d8ff" alt="Docker"/>
-<img src="https://img.shields.io/badge/Linux-060606?style=flat-square&logo=linux&logoColor=00d8ff" alt="Linux"/>
-<img src="https://img.shields.io/badge/ESP32-060606?style=flat-square&logo=espressif&logoColor=00d8ff" alt="ESP32"/>
+**Learning now**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-060606?style=flat-square&logo=openjdk&logoColor=c5ff4a" alt="Java" />
+  <img src="https://img.shields.io/badge/AWS-060606?style=flat-square&logo=amazonaws&logoColor=c5ff4a" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-060606?style=flat-square&logo=microsoftazure&logoColor=c5ff4a" alt="Azure" />
+  <img src="https://img.shields.io/badge/Google_Cloud-060606?style=flat-square&logo=googlecloud&logoColor=c5ff4a" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Docker-060606?style=flat-square&logo=docker&logoColor=c5ff4a" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-060606?style=flat-square&logo=linux&logoColor=c5ff4a" alt="Linux" />
+  <img src="https://img.shields.io/badge/ESP32-060606?style=flat-square&logo=espressif&logoColor=c5ff4a" alt="ESP32" />
+</p>
 
 ---
 
@@ -95,16 +199,32 @@ I study Software Engineering at Daffodil International University, co-founded [H
   <img width="48%" src="profile-summary-card-output/github/2-most-commit-language.svg" alt="Most committed languages"/>
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sohan-Rana&theme=tokyonight&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=Sohan-Rana&theme=default&hide_border=true" alt="Streak"/>
+</picture>
+
 </div>
 
 ---
 
-Open to internships, research collaboration, feedback and code reviews: **sohanrana243@gmail.com**
+## Contact
+
+<div align="center">
+
+<a href="mailto:sohanrana243@gmail.com"><img src="https://img.shields.io/badge/Email-c5ff4a?style=for-the-badge&logo=gmail&logoColor=060606&labelColor=060606" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/sohan-r-54729a184/"><img src="https://img.shields.io/badge/LinkedIn-c5ff4a?style=for-the-badge&logo=linkedin&logoColor=060606&labelColor=060606" alt="LinkedIn" /></a>
+<a href="https://sohan-rana.github.io/SOHAN/"><img src="https://img.shields.io/badge/Portfolio-c5ff4a?style=for-the-badge&logo=googlechrome&logoColor=060606&labelColor=060606" alt="Portfolio" /></a>
+
+</div>
+
+I'll be happy to receive any feedback, ideas or code reviews that can help me improve 💪
+⭐️ Follow me, your support means a lot!
 
 Thank you for visiting my page ❤️
 
 P.S.: I followed [znimie](https://github.com/znimie) because their work caught my interest. I really appreciate it, it helps me discover something new. Thanks for that too.
 
 <div align="center">
-  <sub>Engineered with curiosity in Dhaka.</sub>
+  <sub>Engineered with curiosity in Dhaka by <a href="https://github.com/Sohan-Rana"><b>@Sohan-Rana</b></a>.</sub>
 </div>
