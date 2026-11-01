@@ -186,27 +186,7 @@ flowchart LR
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=800&color=C5FF4A&center=true&vCenter=true&width=820&height=30&lines=Code.+Commits.+Contributions.;Watch+the+snake+eat+my+commits+%F0%9F%90%8D;Always+learning%2C+always+building" alt="Stats typing"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Sohan-Rana&background=0f2027&ring=c5ff4a&fire=c5ff4a&currStreakLabel=c5ff4a&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c5ff4a&dates=9aa4aa&hide_border=true" alt="Streak"/>
-
-<br/><br/>
-
-<!-- Snake eating the contribution graph (.github/workflows/snake.yml) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sohan-Rana/Sohan-Rana/output/github-snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Sohan-Rana/Sohan-Rana/output/github-snake.svg" width="95%"/>
-</picture>
-
-</div>
-
----
 
 ## Contact
 
@@ -223,7 +203,6 @@ I'll be happy to receive any feedback, ideas or code reviews that can help me im
 
 Thank you for visiting my page ❤️
 
-P.S.: I followed [znimie](https://github.com/znimie) because their work caught my interest. I really appreciate it, it helps me discover something new. Thanks for that too.
 
 <div align="center">
   <sub>Engineered with curiosity in Dhaka by <a href="https://github.com/Sohan-Rana"><b>@Sohan-Rana</b></a>.</sub>
